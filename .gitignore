@@ -1,0 +1,10 @@
+# Ignore the streamlit secrets folder
+.streamlit/
+
+# Ignore Python virtual environment
+venv/
+__pycache__/
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
